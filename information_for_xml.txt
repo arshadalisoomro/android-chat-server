@@ -1,0 +1,75 @@
+참가된 채팅페이지
+175.192.32.107/participated_room.php?user_name
+태그 <participated_room>
+<room_number>
+<participated_user_name>
+
+
+유저 만드는 페이지
+175.192.32.107/user_maker.php?user_name
+태그<user_make>
+
+
+
+
+채팅내용 페이지
+175.192.32.107/chat_spread.php?room_number
+태그   <user_chat>
+<chat>
+<user_id>
+<date>
+
+
+추가되있는 친구 보기 페이지
+175.192.32.107/show_friend.php?user_name
+태그 <Friend>
+<user_friend>
+
+
+채팅내용 보내기 
+175.192.32.107/chat.php?chat= &user_name= &room_number=
+태그 없음
+
+
+
+
+친구 추가
+175.192.32.107/friend_add.php?user_name= &user_friend_name=
+태그 <friend_add>
+실패 <failed>
+
+
+
+친추 삭제
+175.192.32.107/friend_del.php?user_name= &user_friend_name=
+<friend_del>
+
+채팅 초대
+175.192.32.107/invite_room.php?user_name=  &friend_name
+태그 없음
+
+채팅 나가기
+175.192.32.107/out_of_room.php?room_number=  &user_name
+태그 없음
+
+
+채팅방 만들기 
+
+175.192.32.107/room_maker.php?user_name
+
+태그<Room>
+<room_number>
+실패시 <failed>
+
+
+ 
+
+
+
+
+
+
+
+
+
+
